@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nhancao1
-- 🌱 I’m currently learning web development, database development, information management, data analytics, and library science. 
+- 👋 Hi, I’m @nhancao1. I’m currently learning web development, database development, information management, data analytics, and library science. 
 - 📫 How to reach me: nhancao@cmail.carleton.ca
 
 <!---
